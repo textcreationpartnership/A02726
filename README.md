@@ -35,11 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An exhortacion to the Scottes to conforme them selfes to the honorable, expedie[n]t, and godly vnion
+An EXHORTATION TO THE SCOTTS to conforme themselves to the honourable expedient and godly union betw
+1. ¶ TO the right high and mightie prince, Edward, Duke of Somerſet, Etle of Hertford, Viſcount Beauchamp, lorde Seymour, Gouernor of the perſone of the Kynges Maieſtie of Englande, and Protector of all his Realmes, Dominions and Subiectes, his lieuetenaunt generall of all his armies, bothe by lande and by ſea, Treſore• and Erle Marſhall of Englande, Gouernor of the Iſles of Gernſey and Gerſey, and knight of the moſte noble ordre of the Garter: Iames Harryſon Scottiſheman wiſheth healthe, honor, and felicitie.
+
 #####Body#####
-An exhortacion to the Scottes to conforme them selfes to the honorable, expedie[n]t, and godly vnion
+
+1. AN EXHORTACION
+
 #####Back#####
-An exhortacion to the Scottes to conforme them selfes to the honorable, expedie[n]t, and godly vnion
+Excuſſum Londini in aedibus Richardi Graftoni typis Impreſſoris. Anno ſalutis noſtrae.1547.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
